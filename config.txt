@@ -1,0 +1,6 @@
+﻿token=MzQwODQwMDMwNjg5ODIwNzAy.XLsqaA.NiHlHiTp9SkYWIK_kSxtrSH_UMw
+owner=525747880242446342
+prefix= 1
+game= Maxi
+stayinchannel=true
+songinstatus=true 
